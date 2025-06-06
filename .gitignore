@@ -1,0 +1,58 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/
+pip-wheel-metadata/
+installed.cfg
+*.egg-info/
+MANIFEST
+
+# PyInstaller
+#  Usually these files are written into a _MEIPASS2 folder, but this may not always be the case.
+_MEIPASS*
+
+# Environments
+.env
+.venv
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Jupyter Notebook
+*.ipynb_checkpoints
+*.ipynb
+
+# Log files
+*.log
+
+# Temp files
+*.tmp
+*.swp
+*.bak
+
+# OS generated files
+.DS_Store
+ehthumbs.db
+Thumbs.db
